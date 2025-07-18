@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My Name is Dhivya 
+=======
+My name is Dhivya S
+>>>>>>> 5242b49 (feat:added my name)
